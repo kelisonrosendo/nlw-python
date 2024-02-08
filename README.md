@@ -10,6 +10,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Flask](https://pypi.org/project/Flask/)
 - [Barcode](https://pypi.org/project/python-barcode/)
 
+Features:
+
+- Validator e error handler utilizando [Cerberus](https://docs.python-cerberus.org/)
+- Testes unitários utilizando o [pytest](https://docs.pytest.org/en/8.0.x/)
+
 ### 🎮 Rodar aplicação
 
 1. Clone o projeto
